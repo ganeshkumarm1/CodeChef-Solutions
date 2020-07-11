@@ -9,3 +9,6 @@
 | [FLOW001](https://www.codechef.com/problems/FLOW001)   |
 | [START01](https://www.codechef.com/problems/START01)   |
 | [FLOW006](https://www.codechef.com/problems/FLOW006)   |
+| [GOODSET](https://www.codechef.com/problems/GOODSET)   |
+| [COLOR](https://www.codechef.com/problems/COLOR)       |
+| [CATSDOGS](https://www.codechef.com/problems/CATSDOGS) |
