@@ -12,3 +12,7 @@
 | [GOODSET](https://www.codechef.com/problems/GOODSET)   |
 | [COLOR](https://www.codechef.com/problems/COLOR)       |
 | [CATSDOGS](https://www.codechef.com/problems/CATSDOGS) |
+| [COOMILK](https://www.codechef.com/problems/COOMILK)   |
+| [MAXREM](https://www.codechef.com/problems/MAXREM)     |
+| [CFMM](https://www.codechef.com/problems/CFMM)         |
+| [FLOW016](https://www.codechef.com/problems/FLOW016)   |
