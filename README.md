@@ -2,7 +2,7 @@
 
 ## Practice
 
-| Beginner                                               | Easy                                                   |
+| Beginner (**12**)                    | Easy (**6**)                            |
 | ------------------------------------------------------ | ------------------------------------------------------ |
 | [HS08TEST](https://www.codechef.com/problems/HS08TEST) | [RRCOPY](https://www.codechef.com/problems/RRCOPY)     |
 | [INTEST](https://www.codechef.com/problems/INTEST)     | [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB) |
