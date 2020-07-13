@@ -1,8 +1,8 @@
 # CodeChef-Solutions
 
-## Practice (**18**)
+## Practice (**###overall_count###**)
 
-| Beginner (**12**)                    | Easy (**6**)                            |
+| Beginner (**###beginner_count###**)                    | Easy (**###easy_count###**)                            |
 | ------------------------------------------------------ | ------------------------------------------------------ |
 | [HS08TEST](https://www.codechef.com/problems/HS08TEST) | [RRCOPY](https://www.codechef.com/problems/RRCOPY)     |
 | [INTEST](https://www.codechef.com/problems/INTEST)     | [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB) |
