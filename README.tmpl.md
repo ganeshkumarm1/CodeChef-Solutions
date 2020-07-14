@@ -10,7 +10,7 @@
 | [START01](https://www.codechef.com/problems/START01)   | [COMPILER](https://www.codechef.com/problems/COMPILER) |
 | [FLOW006](https://www.codechef.com/problems/FLOW006)   | [LUCKY5](https://www.codechef.com/problems/LUCKY5)     |
 | [GOODSET](https://www.codechef.com/problems/GOODSET)   | [NUM239](https://www.codechef.com/problems/NUM239)     |
-| [COLOR](https://www.codechef.com/problems/COLOR)       |
+| [COLOR](https://www.codechef.com/problems/COLOR)       | [MARBLEGF](https://www.codechef.com/problems/MARBLEGF) |
 | [CATSDOGS](https://www.codechef.com/problems/CATSDOGS) |
 | [COOMILK](https://www.codechef.com/problems/COOMILK)   |
 | [MAXREM](https://www.codechef.com/problems/MAXREM)     |
