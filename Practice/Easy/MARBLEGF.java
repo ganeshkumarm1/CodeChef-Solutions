@@ -9,7 +9,7 @@ class MARBLEGF {
     }
 
     public static int getParent(int index) {
-        return  index - (index & -index);
+        return index - (index & -index);
     }
 
     public static void update(int index, Long value) {
@@ -25,12 +25,11 @@ class MARBLEGF {
 
         binaryIndexTree = new ArrayList<>();
 
-
-        for(int i = 0; i <= n; i ++) {
+        for (int i = 0; i <= n; i++) {
             binaryIndexTree.add(0L);
         }
 
-        for(int i = 0; i < n; i ++) {
+        for (int i = 0; i < n; i++) {
             update(i, input.get(i));
         }
     }
@@ -55,71 +54,63 @@ class MARBLEGF {
     }
 
     public static void main(String[] args) {
-        FastReader bu=new FastReader();
-        StringBuilder sb=new StringBuilder();
-        int n=bu.nextInt(),q=bu.nextInt();
-        int i; long a[]=new long[n];
+        FastReader bu = new FastReader();
+        StringBuilder sb = new StringBuilder();
+        int n = bu.nextInt(), q = bu.nextInt();
+        int i;
+        long a[] = new long[n];
         List<Long> array = new ArrayList<>();
 
-        for(i=0;i<n;i++)
-        {
+        for (i = 0; i < n; i++) {
             array.add(bu.nextLong());
         }
-                
+
         build(array);
 
-        while(q-->0)
-        {
-            int ch=bu.next().charAt(0);
+        while (q-- > 0) {
+            int ch = bu.next().charAt(0);
 
-            if(ch=='G' || ch=='T')
-            {
-                i=bu.nextInt();
-                long val=bu.nextLong();
-                if(ch=='T') val=-val;
+            if (ch == 'G' || ch == 'T') {
+                i = bu.nextInt();
+                long val = bu.nextLong();
+                if (ch == 'T')
+                    val = -val;
                 update(i, val);
-                a[i]+=val;
-            }
-            else
-            {
-                i=bu.nextInt();
-                int j=bu.nextInt();
+                a[i] += val;
+            } else {
+                i = bu.nextInt();
+                int j = bu.nextInt();
                 long sum = getSum(i, j);
-                sb.append(sum+"\n");
+                sb.append(sum + "\n");
             }
         }
         System.out.print(sb);
     }
 
-
-    static class FastReader
-    {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
-        public FastReader()
-        {
-            br=new BufferedReader(new InputStreamReader(System.in));
+        public FastReader() {
+            br = new BufferedReader(new InputStreamReader(System.in));
         }
 
-        String next()
-        {
-            while(st==null || !st.hasMoreElements())
-            {
-                try
-                {st=new StringTokenizer(br.readLine());}
-                catch(IOException e)
-                {e.printStackTrace();}
+        String next() {
+            while (st == null || !st.hasMoreElements()) {
+                try {
+                    st = new StringTokenizer(br.readLine());
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
             return st.nextToken();
         }
 
-        int nextInt()
-        {
+        int nextInt() {
             return Integer.parseInt(next());
         }
-        long nextLong()
-        {
+
+        long nextLong() {
             return Long.parseLong(next());
         }
     }
