@@ -1,1 +1,4 @@
 README.tmpl.md
+.idea/
+*.iml
+out/

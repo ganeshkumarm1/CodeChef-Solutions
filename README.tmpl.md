@@ -11,7 +11,7 @@
 | [FLOW006](https://www.codechef.com/problems/FLOW006)   | [LUCKY5](https://www.codechef.com/problems/LUCKY5)     |
 | [GOODSET](https://www.codechef.com/problems/GOODSET)   | [NUM239](https://www.codechef.com/problems/NUM239)     |
 | [COLOR](https://www.codechef.com/problems/COLOR)       | [MARBLEGF](https://www.codechef.com/problems/MARBLEGF) |
-| [CATSDOGS](https://www.codechef.com/problems/CATSDOGS) |
+| [CATSDOGS](https://www.codechef.com/problems/CATSDOGS) | [PSHOT](https://www.codechef.com/problems/PSHOT) |
 | [COOMILK](https://www.codechef.com/problems/COOMILK)   |
 | [MAXREM](https://www.codechef.com/problems/MAXREM)     |
 | [CFMM](https://www.codechef.com/problems/CFMM)         |
