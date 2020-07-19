@@ -26,4 +26,6 @@
 * [ADAKING](https://www.codechef.com/JULY20B/problems/ADAKING)
 * [PTMSSNG](https://www.codechef.com/JULY20B/problems/PTMSSNG)
 * [CHFNSWPS](https://www.codechef.com/JULY20B/problems/CHFNSWPS)
-  
+
+### [COOK120B](https://www.codechef.com/COOK120B?order=desc&sortBy=successful_submissions) - COOKOFF
+* [EVENTUAL](https://www.codechef.com/COOK120B/problems/EVENTUAL)
