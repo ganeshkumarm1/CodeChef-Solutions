@@ -1,13 +1,13 @@
 # CodeChef-Solutions
 
-## Practice (**23**)
+## Practice (**24**)
 
-| Beginner (**12**)                    | Easy (**8**)                            | Peer (**1**)                                                  |
+| Beginner (**12**)                    | Easy (**8**)                            | Peer (**4**)                                                  |
 |:-------------------------------------------------------|:-------------------------------------------------------|:--------------------------------------------------------------|
 | [HS08TEST](https://www.codechef.com/problems/HS08TEST) | [RRCOPY](https://www.codechef.com/problems/RRCOPY)     | [ZACKHAN](https://www.codechef.com/LRNDSA05/problems/ZACKHAN) |
-| [INTEST](https://www.codechef.com/problems/INTEST)     | [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB) | [ECJN208](https://www.codechef.com/LRNDSA05/problems/ECJN208)|
-| [FLOW001](https://www.codechef.com/problems/FLOW001)   | [NAME2](https://www.codechef.com/problems/NAME2)       | [AVNP5](https://www.codechef.com/problems/AVNP5)                                                              |
-| [START01](https://www.codechef.com/problems/START01)   | [COMPILER](https://www.codechef.com/problems/COMPILER) |                                                               |
+| [INTEST](https://www.codechef.com/problems/INTEST)     | [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB) | [ECJN208](https://www.codechef.com/LRNDSA05/problems/ECJN208) |
+| [FLOW001](https://www.codechef.com/problems/FLOW001)   | [NAME2](https://www.codechef.com/problems/NAME2)       | [AVNP5](https://www.codechef.com/problems/AVNP5)              |
+| [START01](https://www.codechef.com/problems/START01)   | [COMPILER](https://www.codechef.com/problems/COMPILER) | [ECJAN20I](https://www.codechef.com/problems/ECJAN20I)        |
 | [FLOW006](https://www.codechef.com/problems/FLOW006)   | [LUCKY5](https://www.codechef.com/problems/LUCKY5)     |                                                               |
 | [GOODSET](https://www.codechef.com/problems/GOODSET)   | [NUM239](https://www.codechef.com/problems/NUM239)     |                                                               |
 | [COLOR](https://www.codechef.com/problems/COLOR)       | [MARBLEGF](https://www.codechef.com/problems/MARBLEGF) |                                                               |
