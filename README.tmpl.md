@@ -29,3 +29,7 @@
 
 ### [COOK120B](https://www.codechef.com/COOK120B?order=desc&sortBy=successful_submissions) - COOKOFF
 * [EVENTUAL](https://www.codechef.com/COOK120B/problems/EVENTUAL)
+
+
+### [LTIME86B](https://www.codechef.com/LTIME86B/) - Lunch Time
+* [CHEFSTEP](https://www.codechef.com/LTIME86B/problems/CHEFSTEP)
