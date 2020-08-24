@@ -19,7 +19,7 @@
 
 ## Contest
 
-### [JULY20B](https://www.codechef.com/JULY20B?order=desc&sortBy=successful_submissions) - Long Challenge
+### [JULY20B](https://www.codechef.com/JULY20B?order=desc&sortBy=successful_submissions) - July Long Challenge
 
 * [CHEFSTR1](https://www.codechef.com/JULY20B/problems/CHEFSTR1)
 * [CRDGAME](https://www.codechef.com/JULY20B/problems/CRDGAME)
@@ -27,9 +27,18 @@
 * [PTMSSNG](https://www.codechef.com/JULY20B/problems/PTMSSNG)
 * [CHFNSWPS](https://www.codechef.com/JULY20B/problems/CHFNSWPS)
 
-### [COOK120B](https://www.codechef.com/COOK120B?order=desc&sortBy=successful_submissions) - COOKOFF
+### [COOK120B](https://www.codechef.com/COOK120B?order=desc&sortBy=successful_submissions) - July CookOff
 * [EVENTUAL](https://www.codechef.com/COOK120B/problems/EVENTUAL)
 
 
-### [LTIME86B](https://www.codechef.com/LTIME86B/) - Lunch Time
+### [LTIME86B](https://www.codechef.com/LTIME86B/) - July Lunch Time
 * [CHEFSTEP](https://www.codechef.com/LTIME86B/problems/CHEFSTEP)
+
+### [AUG20B](https://www.codechef.com/AUG20B/) - August Long Challenge
+* [CHEFWARS](https://www.codechef.com/AUG20B/problems/CHEFWARS)
+* [LINCHESS](https://www.codechef.com/AUG20B/problems/LINCHESS)
+* [CRDGAME3](https://www.codechef.com/AUG20B/problems/CRDGAME3)
+* [SKMP](https://www.codechef.com/AUG20B/problems/SKMP)
+
+### [COOK121B](https://www.codechef.com/COOK121B?order=desc&sortBy=successful_submissions) - August CookOff
+* [CHEFNWRK](https://www.codechef.com/COOK121B/problems/CHEFNWRK)
